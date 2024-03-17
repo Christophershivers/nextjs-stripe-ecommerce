@@ -18,7 +18,7 @@ function NavbarComponent() {
   return (
         <div className="">
             <Navbar className=" h-max max-w-full rounded-none px-4 py-2 lg:px-8 lg:py-4">
-                <div className="flex justify-between page-layout">
+                <div className="flex justify-between container">
                     <div className="flex items-center justify-between text-blue-gray-900">
                         <Typography as="a" href="#" className="mr-4 cursor-pointer py-1.5 font-bold">
                             Style<span className="text-primary">Vista</span>
